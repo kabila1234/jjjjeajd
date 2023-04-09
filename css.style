@@ -1,0 +1,271 @@
+/* Frame 3 */
+
+position: relative;
+width: 1091px;
+height: 1508px;
+
+
+
+/* Q12WkQ8w 1 */
+
+position: absolute;
+width: 713px;
+height: 589px;
+left: 402px;
+top: -58px;
+
+background: url(.png);
+
+
+/* Тип атаки */
+
+position: absolute;
+width: 190px;
+height: 32px;
+left: 42px;
+top: 372px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #989898;
+
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 90px;
+height: 82px;
+left: 619px;
+top: 531px;
+
+
+
+/* techies_sticky_bomb 1 */
+
+width: 83px;
+height: 82px;
+
+background: url(techies_sticky_bomb.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* techies 1 */
+
+position: absolute;
+width: 139px;
+height: 84px;
+left: 42px;
+top: 452px;
+
+background: url(techies.png);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 139px;
+height: 14px;
+left: 42px;
+top: 535px;
+
+background: #36A53B;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 139px;
+height: 15px;
+left: 42px;
+top: 549px;
+
+background: #20E7E7;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 139px;
+height: 1px;
+left: 42px;
+top: 549px;
+
+background: #000000;
+
+
+/* 375 */
+
+position: absolute;
+width: 37px;
+height: 7px;
+left: 85px;
+top: 551px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+
+color: #FFFFFF;
+
+
+
+/* 580 */
+
+position: absolute;
+width: 37px;
+height: 7px;
+left: 85px;
+top: 537px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+
+color: #FFFFFF;
+
+
+
+/* 19 */
+
+position: absolute;
+width: 37px;
+height: 20px;
+left: 273px;
+top: 467px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* 14 */
+
+position: absolute;
+width: 37px;
+height: 20px;
+left: 273px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* 25 */
+
+position: absolute;
+width: 37px;
+height: 20px;
+left: 273px;
+top: 533px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* + 2,3 */
+
+position: absolute;
+width: 34px;
+height: 7px;
+left: 142px;
+top: 553px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 8px;
+
+color: #000000;
+
+
+
+/* + 2,3 */
+
+position: absolute;
+width: 34px;
+height: 7px;
+left: 142px;
+top: 539.05px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 8px;
+
+color: #000000;
+
+transform: rotate(-0.09deg);
+
+
+/* hero_strength 1 */
+
+position: absolute;
+width: 30px;
+height: 26px;
+left: 232px;
+top: 461px;
+
+background: url(hero_strength.png);
+
+
+/* hero_agility 1 */
+
+position: absolute;
+width: 27.04px;
+height: 26px;
+left: 232px;
+top: 494px;
+
+background: url(hero_agility.png);
+
+
+/* hero_intelligence 2 */
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 233px;
+top: 529px;
+
+background: url(hero_intelligence.png);
